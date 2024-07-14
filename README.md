@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning how to make scripts
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me idk yet im new but im working on it
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he male
+- ⚡ Fun fact: im working hard to make scripts idk really 
 
 <!---
 Ravenzl0ve/Ravenzl0ve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
